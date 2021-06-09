@@ -117,11 +117,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "A Cyber Security enthusiast with experience in malware analysis, web penetration and bug bounty.",
+    "Experienced web developer who is comfortable working across the whole stack to deliver exceptional customer-facing products.",
   aboutParaTwo:
-    "I am passionate about cybersecurity best practices, designing and developing user-friendly and secure websites.",
+    "I've built a few projects by myself and I'm looking for a role where i can grow and learn from other experienced team members.",
   aboutParaThree:
-    "I have all the skills to create a new high quality website or improve existing websites for individuals and organisations, using the latest techniques and trends.",
+    "I've all the skills to create a new high quality website or improve existing websites for individuals and organisations, using the latest techniques and trends.",
   aboutImage:
     n1h41,
 
