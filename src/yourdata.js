@@ -49,7 +49,7 @@ export default {
       imageSrc:
         sanivaImage,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://compassionate-thompson-a05aed.netlify.app/",
     },
     {
       title: "R-App", //Project Title - Add Your Project Title Here
@@ -59,7 +59,7 @@ export default {
       imageSrc:
         rAppImage,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://compassionate-thompson-a05aed.netlify.app/",
     },
     /* {
       title: "Project Three", //Project Title - Add Your Project Title Here
@@ -117,7 +117,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am a Full-Stack Web & Mobile Application Developer based in The India.",
+    "A Cyber Security enthusiast with experience in malware analysis, web penetration and bug bounty.",
   aboutParaTwo:
     "I am passionate about cybersecurity best practices, designing and developing user-friendly and secure websites.",
   aboutParaThree:

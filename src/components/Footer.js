@@ -27,8 +27,8 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Made With <icon>❤</icon> by{" "}
-            <a href="https://www.n1h41.me/">Nihal Abdulla</a>
+            Made by{" "}
+            <a href="https://compassionate-thompson-a05aed.netlify.app/">Nihal Abdulla</a>
           </span>
         </div>
       </div>
