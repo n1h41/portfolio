@@ -31,8 +31,8 @@ export default {
     "with security in mind.",
   ],
   //   Header Paragraph
-  /* headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", */
+  headerParagraph:
+    "A Cyber Security enthusiast with experience in malware analysis, web penetration and bug bounty. Also have extensive knowledge in various programming language and web development frameworks.",
 
   //Contact Email
   contactEmail: "nihalninu25@gmail.com",
