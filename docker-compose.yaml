@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  portfolio:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+    volumes:
+      - ./static:/app/static
+    restart: unless-stopped
+

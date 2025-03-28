@@ -40,7 +40,7 @@ func (s *server) Start() error {
 	router.HandleFunc("GET /", s.homeHandler)
 
 	s.server = &http.Server{
-		Addr:    fmt.Sprintf(":%d", s.port),
+		Addr:    fmt.Sprintf("0.0.0.0:%d", s.port),
 		Handler: router,
 	}
 
